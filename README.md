@@ -36,11 +36,12 @@ Based on my recent repositories, I’m actively working on:
 
 - **Agentic AI for finance and research**
   - [`fin-agents-docker`](https://github.com/giaphoang/fin-agents-docker)
-  - [`equity-research-agents`](https://github.com/giaphoang/equity-research-agents)
   - [`Multi-agent-Stock-Analyzer`](https://github.com/giaphoang/Multi-agent-Stock-Analyzer)
+  - [`Finbud-model`](https://github.com/giaphoang/Finbud-model)
 
 - **RAG and document intelligence**
   - [`Layout-Aware-RAG`](https://github.com/giaphoang/Layout-Aware-RAG)
+  - [`Finbud-model`](https://github.com/giaphoang/Finbud-model)
 
 - **Modeling and ML experiments**
   - [`Finbud-model`](https://github.com/giaphoang/Finbud-model)
@@ -50,6 +51,7 @@ Based on my recent repositories, I’m actively working on:
 
 - **MLOps / Cloud / Infra practice**
   - [`CI-CD-Pipeline-on-AWS`](https://github.com/giaphoang/CI-CD-Pipeline-on-AWS)
+  - [`Finbud-model`](https://github.com/giaphoang/Finbud-model)
 
 ---
 
@@ -61,13 +63,6 @@ From my recent project activity, my current interests include:
 - **AI deployment with Docker + API-first architecture**
 - **Edge AI and on-device inference workflows**
 - **MLOps, CI/CD, and cloud-native AI delivery**
-
----
-
-## 📬 Current Pull Requests
-At the moment, I have **0 open pull requests**.
-
-I’m still actively building in my repositories and iterating on AI systems.
 
 ---
 
