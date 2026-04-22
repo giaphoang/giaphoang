@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nguyen Hoang Giap</h1>
+<h1 align="center">Hi there 👋, I'm Giap Hoang Nguyen</h1>
 <h3 align="center">AI Engineer • Building AI Infrastructure, Agentic Systems, and Production ML</h3>
 
 <p align="center">
