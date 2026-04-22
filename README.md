@@ -34,10 +34,11 @@
 ## 📌 Current Work & Repositories
 Based on my recent repositories, I’m actively working on:
 
-- **Agentic AI for finance and research**
+- **Agentic AI**
   - [`fin-agents-docker`](https://github.com/giaphoang/fin-agents-docker)
   - [`Multi-agent-Stock-Analyzer`](https://github.com/giaphoang/Multi-agent-Stock-Analyzer)
   - [`Finbud-model`](https://github.com/giaphoang/Finbud-model)
+  - ['Fullstack-cloner'](https://github.com/giaphoang/Orchids-challenge)
 
 - **RAG and document intelligence**
   - [`Layout-Aware-RAG`](https://github.com/giaphoang/Layout-Aware-RAG)
