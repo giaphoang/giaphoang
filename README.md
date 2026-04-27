@@ -77,6 +77,8 @@ From my recent project activity, my current interests include:
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=giaphoang&show_icons=true&theme=tokyonight" height="170" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaphoang&layout=compact&theme=tokyonight" height="170" />
 </p>
 
