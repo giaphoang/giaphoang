@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Giap Hoang Nguyen</h1>
-<h3 align="center">AI Engineer • Building AI Infrastructure, Agentic Systems, and Production ML</h3>
+<h3 align="center">AI Engineer • Building AI Infrastructure for finance</h3>
 
 <p align="center">
   <a href="https://github.com/giaphoang"><img src="https://img.shields.io/badge/GitHub-giaphoang-181717?style=for-the-badge&logo=github" /></a>
