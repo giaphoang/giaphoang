@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Giap Hoang Nguyen</h1>
-<h3 align="center">AI Engineer • Building Agentic AI system</h3>
+<h3 align="center">Member of Technical Staff</h3>
 
 <p align="center">
   <a href="https://github.com/giaphoang"><img src="https://img.shields.io/badge/GitHub-giaphoang-181717?style=for-the-badge&logo=github" /></a>
@@ -71,19 +71,6 @@ From my recent project activity, my current interests include:
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,docker,aws,git,github,fastapi,tensorflow,pytorch" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giaphoang&show_icons=true&theme=tokyonight" height="170" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaphoang&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 - LinkedIn: **[giap-nguyen-08b551234](https://www.linkedin.com/in/giap-nguyen-08b551234/)**
 - Portfolio: **[giap-nguyen.vercel.app](https://giap-nguyen.vercel.app/)**
